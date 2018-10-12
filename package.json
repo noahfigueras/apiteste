@@ -1,0 +1,24 @@
+{
+  "name": "apiteste",
+  "version": "1.0.0",
+  "description": "A simple boilerplate for basic requests",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaardeco/apiteste.git"
+  },
+  "author": "kaardeco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaardeco/apiteste/issues"
+  },
+  "homepage": "https://github.com/kaardeco/apiteste#readme"
+}
